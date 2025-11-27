@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id" xml:lang="de">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">http://www.gutenberg.org/45488</dc:identifier>
+    <dc:creator id="author_0">Pauline Wengeroff</dc:creator>
+    <meta property="file-as" refines="#author_0">Wengeroff, Pauline</meta>
+    <meta property="role" refines="#author_0" scheme="marc:relators">aut</meta>
+    <dc:title>Memoiren einer Grossmutter, Band I / Bilder aus der Kulturgeschichte der Juden Russlands im 19. Jahrhundert</dc:title>
+    <dc:language>de</dc:language>
+    <dc:subject>Wengeroff, Pauline, 1833-1916</dc:subject>
+    <dc:subject>Jews -- Belarus -- Minsk -- Biography</dc:subject>
+    <dc:subject>Jews -- Belarus -- Minsk -- Social life and customs</dc:subject>
+    <dc:subject>Minsk (Belarus) -- Biography</dc:subject>
+    <dc:date>2014-04-25</dc:date>
+    <meta property="dcterms:modified">2025-11-18T16:39:08Z</meta>
+    <dc:source>https://www.gutenberg.org/files/45488/45488-h/45488-h.htm</dc:source>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilitySummary">This publication may not have complete alternative text descriptions.</meta>
+    <meta name="cover" content="id-4842919488832466141"/>
+  </metadata>
+  <manifest>
+    <!--Image: 549 x 700 size=42613 -->
+    <item href="2374999066869219076_cover.jpg" id="id-4842919488832466141" media-type="image/jpeg" properties="cover-image"/>
+    <!--Image: 523 x 700 size=86351 -->
+    <item href="2374999066869219076_illu.jpg" id="img_images_illu.jpg" media-type="image/jpeg"/>
+    <!--Image: 140 x 116 size=6170 -->
+    <item href="2374999066869219076_signet.jpg" id="img_images_signet.jpg" media-type="image/jpeg"/>
+    <!--Image: 120 x 33 size=2181 -->
+    <item href="2374999066869219076_illu_ende_band1.jpg" id="img_images_illu_ende_band1.jpg" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="0.css" id="item2" media-type="text/css"/>
+    <item href="1.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=193165 Split on div-->
+    <item href="1084587126728857420_45488-h-0.htm.xhtml" id="pg-header" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=210614 Split on div-->
+    <item href="1084587126728857420_45488-h-1.htm.xhtml" id="item4" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=8217 Split on section-->
+    <item href="1084587126728857420_45488-h-2.htm.xhtml" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19701-->
+    <item href="1084587126728857420_45488-h-3.htm.xhtml" id="pg-footer" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="ncx" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx2" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.xhtml" id="coverpage-wrapper" media-type="application/xhtml+xml" properties="svg"/>
+  </manifest>
+  <spine toc="ncx2">
+    <itemref idref="coverpage-wrapper"/>
+    <itemref idref="pg-header"/>
+    <itemref idref="item4"/>
+    <itemref idref="item5"/>
+    <itemref idref="pg-footer"/>
+  </spine>
+</package>
