@@ -154,9 +154,7 @@ table {
     font-size: 2.5em
     }
 .gesperrt {
-    letter-spacing: 0.2em;
-    margin-right: -0.2em;
-    font-style: normal
+    font-style: oblique
     }
 .figcenter {
     margin: auto;
